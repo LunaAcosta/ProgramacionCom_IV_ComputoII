@@ -1,0 +1,25 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    
+}
+.mi {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1em;
+    text-align: center;
+  }
+  
+  th, td {
+    padding: 0.5em;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  th {
+    
+    background-color: #010d12;
+    color: #e9fcf7;
+    font-weight: bold;
+  }
+  
